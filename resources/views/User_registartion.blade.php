@@ -117,8 +117,8 @@
                 <label for="familytype" >Family Type</label>
                 <select class="form-select form-select-lg mb-3 " aria-label="Default select example" id="familytype" name="familytype">
                     <option value="" selected>Open this select menu</option>
-                    <option value="jointfamily">Joint Family</option>
-                    <option value="nuclearfamily">Nuclear Family</option>
+                    <option value="joint">Joint Family</option>
+                    <option value="nuclear">Nuclear Family</option>
 
                   </select>
             </div>
